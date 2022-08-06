@@ -16,4 +16,6 @@ I am interested in Retro 3D, 90s games such as Quake or Half-Life and operating 
 
 sm64js Developer mainly, worked on other SM64 projects as well such as [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop), [Retro64](https://github.com/Retro64Mod/Retro64Mod), [Saturn](https://github.com/Llennpie/Saturn) and more
 
+I also have a three.js game, [Maze 95 JS](https://github.com/maze95/maze95-js)
+
 ♂ He/him
