@@ -10,12 +10,13 @@ Here are some facts about me:
 - Favorite languages are C# and JavaScript
 - Least favorite language is Java
 - I know Lua from sm64ex-coop mod creation
-- I love the SM64 decompilation
+- Writing code that runs fast is my thing
 
-I am interested in Retro 3D, 90s games such as Quake or Half-Life and operating systems of that time as well as the Source engine because Half-Life 2 is a phenomenal sequel.
+I am interested in Retro 3D and by proxy games like DOOM, Quake, Half-Life and SM64 to name a few. Their underlying engines also interest me, DOOM and Quake's engines especially.
 
-sm64js Developer mainly, worked on other SM64 projects as well such as [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop), [Retro64](https://github.com/Retro64Mod/Retro64Mod), [Saturn](https://github.com/Llennpie/Saturn) and more
+SM64 mod project developer, I mainly work on [sm64js](https://github.com/sm64js/sm64js) and [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop). I have also contributed to [Retro64](https://github.com/Retro64Mod/Retro64Mod), [Saturn](https://github.com/Llennpie/Saturn) and more
 
-I also have a three.js game, [Maze 95 JS](https://github.com/maze95/maze95-js)
+\
+I also have a three.js game but I haven't worked on it in a while: [Maze 95 JS](https://github.com/maze95/maze95-js)
 
 ♂ He/him
