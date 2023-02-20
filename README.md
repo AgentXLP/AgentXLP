@@ -7,16 +7,14 @@ My name is Agent X in most places, Agent-11 is my kind of alternative name.
 
 Here are some facts about me:
 
-- Favorite languages are C# and JavaScript
-- Least favorite language is Java
-- I know Lua from sm64ex-coop mod creation
-- Writing code that runs fast is my thing
+- My favorite languages are C# and JavaScript
+- I know how to use Unity
+- My least favorite language is Java
+- Active sm64ex-coop modder, I learned Lua this way
+- I like writing fast code
 
-I am interested in Retro 3D and by proxy games like DOOM, Quake, Half-Life and SM64 to name a few. Their underlying engines also interest me, DOOM and Quake's engines especially.
+I am interested in 90s 3D games like DOOM, Quake, Half-Life or SM64 to name a few. Their underlying engines and ways they were programmed also interest me.
 
 SM64 mod project developer, I mainly work on [sm64js](https://github.com/sm64js/sm64js) and [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop). I have also contributed to [Retro64](https://github.com/Retro64Mod/Retro64Mod), [Saturn](https://github.com/Llennpie/Saturn) and more
-
-\
-I also have a three.js game but I haven't worked on it in a while: [Maze 95 JS](https://github.com/maze95/maze95-js)
 
 ♂ He/him
