@@ -3,12 +3,12 @@
 
 My name is Agent X in most places, Agent-11 is my kind of alternative name.
 
-[![Agent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agent-11)](https://github.com/anuraghazra/github-readme-stats)
+[![Agent X's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentXLP)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some facts about me:
 
-- I was a lead developer for sm64ex-coop
-- My favorite languages are C# and JavaScript
+- I'm a lead developer for sm64coopdx
+- My favorite languages are C# and... fine, I guess I don't hate Lua anymore.
 - I have background knowledge with using Unity
 - My least favorite language is Java
 - I like writing optimized code that looks good and runs fast
