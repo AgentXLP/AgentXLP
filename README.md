@@ -3,7 +3,7 @@
 
 My name is Agent X, and I'm the lead developer for [Super Mario 64 Coop Deluxe](https://github.com/coop-deluxe/sm64coopdx).
 
-<img width="64" height="64" alt="apparition-64-border" src="https://github.com/user-attachments/assets/6ef442fa-6bf8-4c36-8db7-8f0765654ae5" />
+[![A mysterious painting...](https://github.com/user-attachments/assets/6ef442fa-6bf8-4c36-8db7-8f0765654ae5)](https://shitilizer.com)
 
 ## Language Proficiency:
 * 🟩 Fluent: C#, Lua
