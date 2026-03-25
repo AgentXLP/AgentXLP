@@ -3,6 +3,8 @@
 
 My name is Agent X, and I'm the lead developer for [Super Mario 64 Coop Deluxe](https://github.com/coop-deluxe/sm64coopdx).
 
+I am rumored to be Luigi in real life.
+
 [![A mysterious painting...](https://github.com/user-attachments/assets/6ef442fa-6bf8-4c36-8db7-8f0765654ae5)](https://shitilizer.com)
 
 ## Language Proficiency:
@@ -26,3 +28,5 @@ My name is Agent X, and I'm the lead developer for [Super Mario 64 Coop Deluxe](
 
 
 [![Agent X's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentXLP)](https://github.com/anuraghazra/github-readme-stats)
+
+P.S. If someone is seeing this at GIPHY, yes this is my actual account.
