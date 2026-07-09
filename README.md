@@ -27,4 +27,4 @@ I am rumored to be Luigi in real life.
 - My favorite sm64coopdx mod that isn't mine is [OMM Rebirth](https://mods.sm64coopdx.com/mods/odyssey-marios-moveset-rebirth.125/).
 
 
-[![Agent X's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentXLP)](https://github.com/anuraghazra/github-readme-stats)
+[![Agent X's GitHub stats](https://github-stats-extended.vercel.app/api?username=AgentXLP)](https://github.com/stats-organization/github-stats-extended)
